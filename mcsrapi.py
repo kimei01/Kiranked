@@ -13,6 +13,12 @@ class MCSRRankedAPI:
         url = f"{self.api}users/{user1}"
         response = req.get(url, timeout=5)
         return response.json()
-    def get_leaderboard(self, limit): 
-        response = req.get(f"{self.api}/leaderboard", timeout=5)
+    def get_leaderboard(self): 
+        response = req.get(f"{self.api}leaderboard", timeout=5)
+        return response.json()
+    def get_record_leaderboard(self): 
+        response = req.get(f"{self.api}record-leaderboard", timeout=5)
+        return response.json()
+    def get_matchup(self, user1, user2):
+        response = req.get(f"{self.api}users/{user1}/versus/{user2}", timeout = 5)
         return response.json()

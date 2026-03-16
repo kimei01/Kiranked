@@ -4,7 +4,7 @@ The bot allows users to quickly check MCSR RANKED player stats, rankings, and ot
 
 ## What is MCSR ranked? 
 MCSR Ranked is a mod built for minecraft as a competitive matchmaking system for speedrunners to race against other players in ranked matches and climb a global ladder.
-Learn more at the [official MCSR Ranked website](https://mcsrranked.com)
+Learn more at the [official MCSR Ranked website](https://mcsrranked.com). 
 For developers, the documentation for the MCSR Ranked api is available [here](https://mcsrranked.com/api)
 
 ## Features 
