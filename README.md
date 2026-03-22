@@ -26,6 +26,7 @@ For developers, the documentation for the MCSR Ranked api is available [here](ht
 | `/versus <user1> <user2>` | Display the head-to-head record between two players including elo gain/loss | `user1`, `user2` - MCSR Ranked usernames |
 
 ## Planned Features
+- [ ] Look for and fix edge-cases
 - [ ] Match history with detailed stats (splits, average times, deathrates..)
 - [ ] Better and comprehensive Head-to-head player comparison
 - [ ] Season history and past leaderboards
@@ -110,6 +111,6 @@ Alternatively, you can add the bot directly using [this link](https://discord.co
 
 
 ## Why I Made This
- I made this project in order to learn more about python and their built in libraries, learn about apis (REST apis in this case) whilst challenging myself by building something that is relevant to my hobbies on a platform that I use daily. This is my first ever solo project which I do plan on improving and expanding. Huge credits to the welcoming MCSR community, specifically their API Developer help channel, a channel for developers(beginner or experienced) to be able to share and help each other. 
+I made this project in order to learn more about python and their built in libraries, learn about apis (REST apis in this case) whilst challenging myself by building something that is relevant to my hobbies on a platform that I use daily. This is my first ever solo project which I do plan on improving and expanding as this is only the first demo. Huge credits to the welcoming MCSR community, specifically their API Developer help channel, a channel for developers(beginner or experienced) to be able to share and help each other. 
 ---
 
