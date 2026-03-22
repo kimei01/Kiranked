@@ -1,5 +1,5 @@
-[!WARNING]
-Currently, Development for this project will be held on pause as REDLIME (main programmer behind MCSR Ranked) is migrating the database and making changes to their API. This project will resume after the database changed.
+>[!WARNING]
+>Currently, Development for this project will be held on pause as REDLIME (main programmer behind MCSR Ranked) is migrating the database and making changes to their API. This project will resume after the database changed.
 
 ## Kiranked
 A simple discord bot to track player statistics and leaderboard data for MCSR Ranked using their API. 
